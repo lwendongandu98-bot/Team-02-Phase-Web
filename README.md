@@ -1,1 +1,6 @@
-# Team-02-Phase-Web
+The following are the Members for Devtrinity Team 2
+1) NG'ANDU LWEENDO
+2) MWANZA TAIZYA
+3) MSONI DEBORAH
+4) TEMBO PATIENCE
+5) NDHLOVU GODFREY
