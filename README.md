@@ -1,7 +1,7 @@
-# Project Name: web
+# Project Name: Web Development Phase 1
 
 ## 💡 Project Idea
-Web Development 
+Our team is developing a modern, responsive web application focused on delivering a seamless user experience. By utilizing current web technologies, we aim to build a robust platform that solves core user needs through efficient design and clean, scalable code.
 
 ## 👥 Team Members & Roles
 * **Member 1 Name** - NG'ANDU LWEENDO/ Team Leader
@@ -19,3 +19,4 @@ Web Development
 * HTML5
 * CSS
 * JavaScript
+**Version Control:** Git & GitHub
